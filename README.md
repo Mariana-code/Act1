@@ -1,2 +1,2 @@
-# Act1
+# GitCommands
 Just practicing again Git commands 
